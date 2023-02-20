@@ -36,3 +36,7 @@
 
 ## 🚀 Hi!
 In this repository we collect notebooks with examples, analysis, and use cases focused on artificial intelligence optimization. The repository is still under construction 👷‍♀️ you can find more notebooks with quick starts for Speedster [here](https://github.com/nebuly-ai/nebullvm/tree/main/notebooks).
+
+| **notebook** | **open in colab** | **supplementary materials** | **references** |
+|:------------:|:------------------------------------:|:---------------------------:|:--------------:|
+| [Token Merging (ToMe) - Meta AI's New Optimization Technique to Make ViT Faster by 2x. But Can ViT be Even Faster?](https://github.com/nebuly-ai/notebooks/blob/main/notebooks/token-merging.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dd8JENS8HudfPz_cA-Mc5oN90nYJUBND?usp=sharing) |[Blog post](https://www.nebuly.com/blog/token-merging-tome-meta-ais-new-optimization-technique-to-make-vit-faster)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ToMe) |
