@@ -1,12 +1,5 @@
 <div align="center">
-  <p>
-    <a align="center" href="" target="_blank">
-      <img
-        width="850"
-        src="imgs/cover.png"
-      >
-    </a>
-  </p>
+
 <br>
 
   <div align="center">
@@ -34,9 +27,10 @@
 </div>
 </div>
 
-## 🚀 Hi!
-In this repository we collect notebooks with examples, analysis, and use cases focused on artificial intelligence optimization. The repository is still under construction 👷‍♀️ you can find more notebooks with quick starts for Speedster [here](https://github.com/nebuly-ai/nebullvm/tree/main/notebooks).
+## ❤️ Hi!
+In this repository, you can find notes on various topics including AI, optimization, and others, which have been taken from lectures, videos, or articles. The repository is still under construction 👷‍♀️ and we welcome contributions in all forms!
 
-| **notebook** | **open in colab or kaggle** | **supplementary materials** | **references** |
-|:------------:|:------------------------------------:|:---------------------------:|:--------------:|
-| [Token Merging (ToMe) - Meta AI's New Optimization Technique to Make ViT Faster by 2x. But Can ViT be Even Faster?](https://github.com/nebuly-ai/notebooks/blob/main/notebooks/token-merging.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dd8JENS8HudfPz_cA-Mc5oN90nYJUBND?usp=sharing) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/serquet/token-merging-your-vit-but-faster) |[Blog post](https://www.nebuly.com/blog/token-merging-tome-meta-ais-new-optimization-technique-to-make-vit-faster)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ToMe) |
+
+| **topic** | **notes**  |  **references** |
+|:------------:|:------------:|:--------------:|
+|Basics of Neural Networks|[MIT 6.S965 Lecture 02](notes/files/MIT6.S965/Lesson_01.pdf) | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=5HpLyZd1h0Q)|
