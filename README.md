@@ -1,6 +1,6 @@
+
+![cover_lh](https://user-images.githubusercontent.com/53374883/225739546-cf303981-7a31-4cb9-9f53-4c553083b76b.png)
 <div align="center">
-  <p>
-  </p>
 <br>
 
   <div align="center">
