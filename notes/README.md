@@ -1,3 +1,5 @@
+![cover_notes](https://user-images.githubusercontent.com/53374883/225740129-1f08691b-9263-45cc-a8e3-f5739f2ceaf1.png)
+
 <div align="center">
 
 <br>
