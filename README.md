@@ -29,6 +29,6 @@
 </div>
 
 ## Hey there and welcome! 🌈
-This repository is a collection of learning resources, which includes two folders: the `notes` folder consisting of handwritten notes from courses or reading papers, and the `notebooks` folder providing notebooks to experiment with the latest techniques or utilize Nebuly tools. 
+This repository is a collection of learning resources, which includes two folders: the [`notes`](https://github.com/mfumanelli/notebooks/tree/refactor_repo/notes) folder consisting of handwritten notes from courses or reading papers, and the [`notebooks`](https://github.com/mfumanelli/notebooks/tree/refactor_repo/notebooks) folder providing notebooks to experiment with the latest techniques or utilize Nebuly tools. 
 
 This is still a work in progress, and we welcome any contributions. Let's keep learning!
