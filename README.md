@@ -1,12 +1,6 @@
+
+![cover_lh](https://user-images.githubusercontent.com/53374883/225739546-cf303981-7a31-4cb9-9f53-4c553083b76b.png)
 <div align="center">
-  <p>
-    <a align="center" href="" target="_blank">
-      <img
-        width="850"
-        src="imgs/cover.png"
-      >
-    </a>
-  </p>
 <br>
 
   <div align="center">
@@ -34,9 +28,7 @@
 </div>
 </div>
 
-## 🚀 Hi!
-In this repository we collect notebooks with examples, analysis, and use cases focused on artificial intelligence optimization. The repository is still under construction 👷‍♀️ you can find more notebooks with quick starts for Speedster [here](https://github.com/nebuly-ai/nebullvm/tree/main/notebooks).
+## Hey there and welcome! 🌈
+This repository is a collection of learning resources, which includes two folders: the [`notes`](https://github.com/mfumanelli/notebooks/tree/refactor_repo/notes) folder consisting of handwritten notes from courses or reading papers, and the [`notebooks`](https://github.com/mfumanelli/notebooks/tree/refactor_repo/notebooks) folder providing notebooks to experiment with the latest techniques or utilize Nebuly tools. 
 
-| **notebook** | **open in colab** | **supplementary materials** | **references** |
-|:------------:|:------------------------------------:|:---------------------------:|:--------------:|
-| [Token Merging (ToMe) - Meta AI's New Optimization Technique to Make ViT Faster by 2x. But Can ViT be Even Faster?](https://github.com/nebuly-ai/notebooks/blob/main/notebooks/token-merging.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dd8JENS8HudfPz_cA-Mc5oN90nYJUBND?usp=sharing) |[Blog post](https://www.nebuly.com/blog/token-merging-tome-meta-ais-new-optimization-technique-to-make-vit-faster)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ToMe) |
+This is still a work in progress, and we welcome any contributions. Let's keep learning!
