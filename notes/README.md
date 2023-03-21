@@ -35,4 +35,4 @@ In this repository, you can find notes on various topics including AI, optimizat
 
 | **topic** | **notes**  |  **references** |
 |:------------:|:------------:|:--------------:|
-|Basics of Neural Networks|[MIT 6.S965 Lecture 02](notes/files/MIT6.S965/Lesson_01.pdf) | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=5HpLyZd1h0Q)|
+|Basics of Neural Networks|[MIT 6.S965 Lecture 02](https://github.com/nebuly-ai/learning-hub/blob/main/notes/files/MIT6.S965/Lecture_02.pdf) | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=5HpLyZd1h0Q)|
